@@ -1,0 +1,15 @@
+# API Framework & Server
+fastapi
+uvicorn
+python-multipart
+
+# Computer Vision & Array Processing
+opencv-python
+numpy
+
+# AI Inference & Tracking
+onnxruntime
+deep-sort-realtime
+
+# Database ORM
+sqlalchemy
